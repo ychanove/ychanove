@@ -23,7 +23,7 @@ cannot be shared publicly! Sorry!
 **Quiz management system**          
 - Worked on a group project to implement a database (using Hibernate) to
           manage a series of quizzes, their questions, save the answers
-          and scored of the users and create unique quizzes based on
+          and scores of the users, and create unique quizzes based on
           the questions the user got wrong. No GUI, just CLI.
           
 
