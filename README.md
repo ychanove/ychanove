@@ -5,9 +5,9 @@ repositories are part of assesment in university, therefore
 cannot be shared publicly! Sorry!
  
  - 🐁 Languages used to develop projects: Java,
-                                          Python
-                                          HTML
-                                          SQL
+                                          Python,
+                                          HTML,
+                                          SQL,
                                           C
 
 ## Here's a list of projects they've worked on:
