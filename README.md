@@ -28,7 +28,7 @@ cannot be shared publicly! Sorry!
           
 
 
-### Python
+### Python:
 
 **Phonebook app**
 - Developed a simple phonebook app to store, access and remove contacts.
@@ -39,20 +39,23 @@ cannot be shared publicly! Sorry!
         project I was provided with a skeleton to work off of!
         
 
-## C
+## C:
 
 **Job queue**
 - This was a tough one! Provided with a skeleton for the project, learned how to
       work with structs to create "objects". How to open, read and write in files, how to
       implement a process queue and make use of concurency.
       
-## SQL
+## SQL:
 
 **Database for a bus company**
 - Simple database management, I find working on RDBMS very fun! This database was
       not too complicated, but highlighted how much work goes into database management and
       why.
       
+
+
+
 
 - **Missing something?** This user is still working on their HTML projects. They will be added
 in once completed.
